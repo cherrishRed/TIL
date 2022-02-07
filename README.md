@@ -3,6 +3,6 @@
 <details>
 <summary>2022.2</summary>
 <div markdown="1">
-22.2.7
+[잘못된 습관을 만들지 말자](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.07.md)
 </div>
 </details>
