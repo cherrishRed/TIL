@@ -7,6 +7,7 @@
   
 [잘못된 습관을 만들지 말자](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.07.md)
 
+[revert와 sequence 는 처음이라](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.08.md)
   
 </div>
 </details>
