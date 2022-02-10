@@ -9,5 +9,7 @@
 
 [revert와 sequence 는 처음이라](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.08.md)
   
+[zip, enumerated 와 for in 문의 조화](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.10.md)
+
 </div>
 </details>
