@@ -11,5 +11,7 @@
   
 [zip, enumerated 와 for in 문의 조화](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.10.md)
 
+[Optional Chaining 과 오해](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.11.md)
+
 </div>
 </details>
