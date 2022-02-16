@@ -15,5 +15,7 @@
 
 [OOP](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.14.md)
 
+[에러를 처리하는 여러 가지 방법](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.15.md)
+
 </div>
 </details>
