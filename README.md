@@ -19,5 +19,7 @@
 
 [H.I.G 와 친해지자](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.17.md)
 
+[SOLID 원칙을 따라서 구조를 짜자](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.18.md)
+
 </div>
 </details>
