@@ -21,5 +21,9 @@
 
 [SOLID 원칙을 따라서 구조를 짜자](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.18.md)
 
+[OOP 구조는 그래서 어떻게 짜는데?](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.21.md)
+
+[Result와 감동적인 만남](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.22.md)
+
 </div>
 </details>
