@@ -25,5 +25,9 @@
 
 [Result와 감동적인 만남](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.22.md)
 
+[Key Value Observing ](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.24.md)
+
+[어렵고 자주 안쓰는 열거형 활용법](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.25.md)
+
 </div>
 </details>
