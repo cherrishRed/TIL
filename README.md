@@ -29,5 +29,8 @@
 
 [어렵고 자주 안쓰는 열거형 활용법](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.25.md)
 
+[싱글톤, alert 그리고 구조체](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.28.md)
+
+
 </div>
 </details>
