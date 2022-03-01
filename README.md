@@ -31,6 +31,8 @@
 
 [싱글톤, alert 그리고 구조체](https://github.com/cherrishRed/TIL/blob/main/2022/2022.02.28.md)
 
+[화면 전환의 다양한 방법](https://github.com/cherrishRed/TIL/blob/main/2022/2022.03.01.md)
+
 
 </div>
 </details>
