@@ -33,6 +33,7 @@
 
 [화면 전환의 다양한 방법](https://github.com/cherrishRed/TIL/blob/main/2022/2022.03.01.md)
 
+[라싸(life cycle), KVO 사용법 ](https://github.com/cherrishRed/TIL/blob/main/2022/2022.03.02.md)
 
 </div>
 </details>
