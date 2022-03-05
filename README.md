@@ -35,5 +35,7 @@
 
 [라싸(life cycle), KVO 사용법 ](https://github.com/cherrishRed/TIL/blob/main/2022/2022.03.02.md)
 
+[타입 캐스팅 is as  ](https://github.com/cherrishRed/TIL/blob/main/2022/2022.03.04.md)
+
 </div>
 </details>
