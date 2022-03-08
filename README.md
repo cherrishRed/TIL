@@ -37,5 +37,7 @@
 
 [타입 캐스팅 is as  ](https://github.com/cherrishRed/TIL/blob/main/2022/2022.03.04.md)
 
+[delegat 는 내일을 대신 해주는 것  ](https://github.com/cherrishRed/TIL/blob/main/2022/2022.03.08.md)
+
 </div>
 </details>
